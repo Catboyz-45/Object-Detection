@@ -75,6 +75,6 @@ python detect.py
 
 ## 👥 ผู้พัฒนา (Developer)
 
-* **Nuttaphat** ([@flame123-np](https://github.com/flame123-np))
+* **Nuttaphat** ([@Catboyz-45](https://github.com/Catboyz-45))
 
 *(หมายเหตุ: โปรเจกต์นี้จัดทำในภาคการศึกษา 2567 กลุ่มเรียน 820 — ตามชื่อรีโป `242-2567-820`)*
